@@ -1,4 +1,4 @@
-#Jeeva-Mithran-S
+#JeevaMithran-S
 
 
 ECE student focused on Embedded Systems, VLSI, and AI integration.  
